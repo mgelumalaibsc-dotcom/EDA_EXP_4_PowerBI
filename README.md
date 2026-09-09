@@ -76,7 +76,7 @@ Create the following measures:
     Analyze the results and identify useful business insights.      
 
 **Output**
-<img width="1112" height="678" alt="Screenshot 2026-09-09 083407" src="https://github.com/user-attachments/assets/44e013bb-3846-43ff-b2a0-7cc0c3173b04" />
+<img width="1116" height="682" alt="Screenshot 2026-09-09 085556" src="https://github.com/user-attachments/assets/b2569ffb-6fa5-4835-ba01-8200a0cac89c" />
 
 
 
