@@ -1,3 +1,5 @@
+ELUMALAI G
+212225220030
 **Lab Experiment 4: Bivariate Analysis for Sales Data using Power BI**
 
 **Aim**
@@ -70,6 +72,9 @@ Create the following measures:
     Analyze the results and identify useful business insights.      
 
 **Output**
+<img width="1112" height="678" alt="Screenshot 2026-09-09 083407" src="https://github.com/user-attachments/assets/44e013bb-3846-43ff-b2a0-7cc0c3173b04" />
+
+
 
 
 **Result**
